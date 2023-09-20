@@ -10,13 +10,13 @@ SynergyOS is building an open federated network to reimagine how companies work 
 
 ### Synck: Synchronization Kernel
 
-SyncK allows companies to securely synchronize different data types in real-time across different servers.
+Synck allows companies to securely synchronize different data types in real-time across different servers.
 
 This core service manages the exchange of data across servers and security / cryptography. This component will be released under an open-source license.
 
 ### Synck Server: file management and messages
 
-SyncK Server is an open-source implementation of the core file management and messages functionality. This will be releases under the Server Side Public License (SSPL).
+Synck Server is an open-source implementation of the core file management and messages functionality. This will be releases under the Server Side Public License (SSPL).
 
 ### SynergyOS: the company OS
 
