@@ -2,13 +2,13 @@
 
 The company OS for file management and communications.
 
-SynergyOS is building an open federated network to reimagine how companies work together. The network is build on top of the Synchronization Protocol, SyncK.
+SynergyOS is building an open federated network to reimagine how companies work together. The network is build on top of the Synchronization Protocol, Synck.
 <br>
 <br>
 
 ## Overview of the components
 
-### SyncK: Synchronization Kernel
+### Synck: Synchronization Kernel
 
 SyncK allows companies to securely synchronize different data types in real-time across different servers.
 
