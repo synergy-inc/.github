@@ -12,8 +12,6 @@ SynergyOS is the company operating system, integrated with the Matrix protocol, 
 
 Synck is the client engine that allows users to synchronize files and folders to their local working copy in Windows and Mac. 
 
-This core service manages the exchange of data across servers and security / cryptography. This component will be released under an open-source license.
-
 ### SynergyOS Community Server: file management and messages
 
 SynergyOS Community Server is an open-source implementation of the core file management and messages functionality. This will be releases under the Server Side Public License (SSPL).
